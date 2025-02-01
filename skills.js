@@ -16,3 +16,4 @@ function calculateNumbers(var1, var2) {
         throw new Error(`Calculation error: ${error.message}`);
     }
 }
+
