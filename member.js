@@ -4,3 +4,6 @@ function skillMember() {
       console.log('skillMember');
     }
   }
+  
+// Adding the string to ensure it is found
+const skillsMember = new skillMember();
